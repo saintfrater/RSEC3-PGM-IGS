@@ -16,7 +16,11 @@ Since no PCB has been draw for this, here is my attempt to fill this gape.
 ![PCB Version 1](https://raw.githubusercontent.com/saintfrater/RSEC3-PGM-IGS/main/img/PCB-V1.png)
 
 ## Version 2
+Depending of the space you have to fit the replacement, you can turn front/back the angled Row Header:
+
 ![PCB Version 2](https://raw.githubusercontent.com/saintfrater/RSEC3-PGM-IGS/main/img/PCB-V2.png)
+
+![PCB Version 2 Front Variant](https://raw.githubusercontent.com/saintfrater/RSEC3-PGM-IGS/main/img/PCB-V2-Variant.png)
 
 ## BOM
 | Reference | Value | Footprint | Q |
