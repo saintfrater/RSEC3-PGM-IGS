@@ -5,7 +5,7 @@ On an PGM-IGS board, there are some "custom" hybrid IC's called RSEC3.
 
 Those ICs are somehow fragile and are not available on the market.
 
-gc8tech has reverse engineer the IC's schematics and kindly share it with the community.
+gc8tech (http://www.igspgm.com/) has reverse engineer the IC's schematics and kindly share it with the community.
 
 ## Schematics
 ![Equivalent Schematics](https://raw.githubusercontent.com/saintfrater/RSEC3-PGM-IGS/main/img/schematics.png)
